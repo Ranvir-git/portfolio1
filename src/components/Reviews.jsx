@@ -29,7 +29,7 @@ const reviewsData = [
     },
     {
         avatar: '/reviews/shubham.jpg',
-        name: 'Shubham Makur',
+        name: 'Subham Makur',
         job: 'College Student',
         review: 'Ranvir, it was wonderful experience working with you. you have deeper experience in web dev along with that you are good team leader too. By your guidance and mentorship i got a placed in good company. Thankyou for your helpfull nature and kindness. -> The person has a positive approach towards life. ->A perfect team player.Kudos to Ranvir Kumar:) !!!'
     },

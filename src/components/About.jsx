@@ -42,7 +42,7 @@ const qualificationData = [
                 years: '2021 - 2025',
             },
             {
-                university: 'Dr S Mishra College Kalayanpur',
+                university: 'Dr S Mishra College Kalyanpur',
                 qualification: 'Higher Secondary School (PCM)',
                 years: '2019 - 2021',
             },
